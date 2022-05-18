@@ -10,7 +10,7 @@
 
 ## Installation
 
-- None
+- Just visit https://fast-brook-54649.herokuapp.com
 
 ## Screenshot
 
